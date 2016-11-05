@@ -1,0 +1,4 @@
+Pi GUI for Jessie Lite Install
+
+sudo apt-get install xinit (80mb)
+though sudo apt-get install LXDE (770mb)
